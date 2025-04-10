@@ -6,7 +6,7 @@ Bu projede örnek bir veri seti üzerinden **basit lineer regresyon** ve **çokl
 
 Karşılaştırmalar sonucunda, **çoklu lineer regresyon modelinin** daha düşük hata oranlarına sahip olduğu ve daha başarılı tahminler yaptığı gözlemlenmiştir. Bu durum, modele eklenen bağımsız değişkenlerin tahmin gücünü artırdığını göstermektedir.
 
-## R^2 Değeri Hakkında
+## R² Değeri Hakkında
 
 **R² değeri**, bağımsız değişkenlerin bağımlı değişkeni ne kadar açıkladığını ifade eder.
 Yani modelin tahminlerinin gerçek değerlere ne kadar yakın olduğunu gösterir.
